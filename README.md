@@ -20,7 +20,7 @@ To answer the question, I saw and analyzed from 4 tables, what data can be taken
 Before analyze the data, do checking and data cleaning first, such as checking for null values or improper values that allow errors to occur.
 
 ### Analyze
-After determining what data is needed, I implement it using <a href="https://github.com/Rifald/Study-Case-Transaction-Detail-PT-Sejahtera-Bersama/blob/main/Query/query.sql" target="_blank" rel="noopener noreferrer">SQL</a> to get the required data. After that I make a visualization using Tableu based on the data that has been taken.
+After determining what data is needed, I implement it using <a href="https://github.com/Rifald/Study-Case-Transaction-Detail-PT-Sejahtera-Bersama/blob/main/Query/query.sql" target="_blank" rel="noopener noreferrer">SQL</a> to get the required data. After that I make a visualization using Tableau based on the data that has been taken.
 
 ### Share
 You can see my Data Visualization and insights in this 
