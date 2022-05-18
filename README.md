@@ -1,4 +1,4 @@
-# Study-Case-Transaction-Detail-PT-Sejahtera-Bersama
+# Case-Study-Transaction-Detail-PT-Sejahtera-Bersama
 
 Documentation of a case study about transaction detail PT. Sejahtera Bersama. I did this Case Study when I was taking a Virtual Internship Experience in Bank Muamalat.
 In the case study, there are 4 tables that can be analyzed
@@ -12,6 +12,7 @@ The first step, I determine what things can be analyzed to help solve problems t
 1. How is the development of sales monthly at the company?
 2. how the sales progress by category?
 3. How to increase sales?
+4. Which city makes the most purchases?
 
 ### Prepare
 To answer the question, I saw and analyzed from 4 tables, what data can be taken from the three tables to answer the question.
