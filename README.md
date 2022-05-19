@@ -15,7 +15,7 @@ The first step, I determine what things can be analyzed to help solve problems t
 4. Which city makes the most purchases?
 
 ### Prepare
-To answer the question, I saw and analyzed from 4 tables, what data can be taken from the three tables to answer the question.
+To answer the question, I saw and analyzed from 4 tables, what data can be taken from the four tables to answer the question.
 
 ### Process
 Before analyze the data, do checking and data cleaning first, such as checking for null values or improper values that allow errors to occur.
